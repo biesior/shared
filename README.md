@@ -1,0 +1,2 @@
+# shared
+Some shared resources
