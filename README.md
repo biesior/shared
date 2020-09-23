@@ -1,6 +1,7 @@
 # Shared solutions
 
 Some shared resources, you can use it if needed, respecting GPL3, read:
+
 https://github.com/biesior/shared/blob/master/LICENSE
 
 ## Info
@@ -11,4 +12,5 @@ Keep in mind that's my private set, although it is published I do not care about
 
 Please, always check the code before executing!
 If not sure about its safety, just avoid running.
-nanan
+
+With love, your biesior :*
